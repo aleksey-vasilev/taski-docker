@@ -211,6 +211,3 @@ sudo systemctl reload nginx
 ```
 sudo tail /var/log/nginx/access.log
 ```
-### Автор:
-
-Алексей Васильев (aleksey-vasilev) - Backend, DevOps, testing.
